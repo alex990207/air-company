@@ -1,0 +1,22 @@
+<by.edu.grsu.air__company.dao.table.TicketTable>
+  <rows>
+    <by.edu.grsu.air__company.entity.Ticket>
+      <id>545245212</id>
+      <firstAccessStatus>true</firstAccessStatus>
+      <price>500</price>
+      <boughtDate>2018-05-25 20:54:47.709 UTC</boughtDate>
+    </by.edu.grsu.air__company.entity.Ticket>
+    <by.edu.grsu.air__company.entity.Ticket>
+      <id>548864372</id>
+      <firstAccessStatus>true</firstAccessStatus>
+      <price>500</price>
+      <boughtDate>2018-05-25 20:54:47.713 UTC</boughtDate>
+    </by.edu.grsu.air__company.entity.Ticket>
+    <by.edu.grsu.air__company.entity.Ticket>
+      <id>555615582</id>
+      <firstAccessStatus>true</firstAccessStatus>
+      <price>1000</price>
+      <boughtDate>2018-05-25 20:54:47.718 UTC</boughtDate>
+    </by.edu.grsu.air__company.entity.Ticket>
+  </rows>
+</by.edu.grsu.air__company.dao.table.TicketTable>

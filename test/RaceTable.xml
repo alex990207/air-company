@@ -1,0 +1,16 @@
+<by.edu.grsu.air__company.dao.table.RaceTable>
+  <rows>
+    <by.edu.grsu.air__company.entity.Race>
+      <id>-1235170554</id>
+      <name>Grodno-Minsk</name>
+    </by.edu.grsu.air__company.entity.Race>
+    <by.edu.grsu.air__company.entity.Race>
+      <id>-1232978357</id>
+      <name>Grodno-Minsk</name>
+    </by.edu.grsu.air__company.entity.Race>
+    <by.edu.grsu.air__company.entity.Race>
+      <id>-1229922949</id>
+      <name>Grodno-Krakov</name>
+    </by.edu.grsu.air__company.entity.Race>
+  </rows>
+</by.edu.grsu.air__company.dao.table.RaceTable>

@@ -1,0 +1,31 @@
+<by.edu.grsu.air__company.dao.table.UserTable>
+  <rows>
+    <by.edu.grsu.air__company.entity.User>
+      <id>211726781</id>
+      <surname>Bilevsky</surname>
+      <name>Alex</name>
+      <patronymic>Batkovich</patronymic>
+      <phoneNumber>375292689578</phoneNumber>
+      <password>poitrulit</password>
+      <userStatus>CUSTOMER</userStatus>
+    </by.edu.grsu.air__company.entity.User>
+    <by.edu.grsu.air__company.entity.User>
+      <id>214876213</id>
+      <surname>Bilevsky</surname>
+      <name>Alex</name>
+      <patronymic>Batkovich</patronymic>
+      <phoneNumber>375292689578</phoneNumber>
+      <password>poitrulit</password>
+      <userStatus>CUSTOMER</userStatus>
+    </by.edu.grsu.air__company.entity.User>
+    <by.edu.grsu.air__company.entity.User>
+      <id>220561547</id>
+      <surname>Bilevsky</surname>
+      <name>Alex</name>
+      <patronymic>Batkovich</patronymic>
+      <phoneNumber>375292689578</phoneNumber>
+      <password>pchelki-ju-ju-ju</password>
+      <userStatus>CUSTOMER</userStatus>
+    </by.edu.grsu.air__company.entity.User>
+  </rows>
+</by.edu.grsu.air__company.dao.table.UserTable>
